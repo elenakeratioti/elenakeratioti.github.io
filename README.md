@@ -13,6 +13,10 @@ byte5: byte5@ip-172-31-37-131:~$ cd /tmp byte5@ip-172-31-37-131:/tmp$ mkdir elen
 
 byte6: unzip -p byte6.zip
 
+byte7:
+
+
+
 
 
 
