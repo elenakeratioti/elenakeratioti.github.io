@@ -19,6 +19,10 @@ byte8: pico carriage_return.txt
 
 byte9: cat ./-
 
+byte10: sort names.txt | head
+
+byte11: sort births.txt | uniq -c | sort
+
 
 
 
