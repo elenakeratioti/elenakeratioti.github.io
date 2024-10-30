@@ -17,6 +17,8 @@ byte7:
 
 byte8: pico carriage_return.txt
 
+byte9: cat ./-
+
 
 
 
